@@ -1,0 +1,16 @@
+{
+"name": "888heng",
+"theme": "888 heng",
+"version": "7.10.2",
+"description": "888 heng ทางเข้าเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ รับเครดิตฟรี",
+"keywords": [
+"888 heng",
+"888 heng เครดิตฟรี",
+"888 heng ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/888heng",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
